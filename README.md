@@ -1,4 +1,4 @@
-# muguet-keyboards
+# keyboards
 
 Firmware files for Muguet keyboard projects.
 
