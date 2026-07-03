@@ -1,0 +1,16 @@
+{
+    "name": "MI-KMC61",
+    "vendorId": "0x0088",
+    "productId": "0x0001",
+    "lighting": "none",
+    "matrix": {
+        "rows": 2,
+        "cols": 3
+    },
+    "layouts": {
+        "keymap": [
+            ["0,0", "0,1", "0,2"],
+            ["1,0", "1,1", "1,2"]
+        ]
+    }
+}
