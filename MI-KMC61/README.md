@@ -7,6 +7,9 @@ MI-KMC61 is a 6-key macro keyboard by Muguet.
 - `MI-KMC61_SetupGuide.pdf`  
   Setup guide and assembly manual.
 
+- `QuickStart.pdf`  
+  Package insert note / quick start notice.
+
 - `firmware/`  
   Prebuilt firmware files.
 
