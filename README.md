@@ -1,13 +1,27 @@
-# keyboards
+# Muguet Keyboards
 
-Firmware files for Muguet keyboard projects.
+Firmware, source files, and documentation for Muguet keyboard projects.
 
-## Status
+## Repository structure
 
-This repository is currently being prepared for future firmware distribution.
+Each product is stored in its own folder.
+
+Typical contents are:
+
+- `firmware/`  
+  Prebuilt firmware files.
+
+- `source/`  
+  QMK / Vial source files.
+
+- `README.md`  
+  Product-specific information.
+
+- Setup guide PDF  
+  Assembly and setup guide.
 
 ## Notes
 
-Firmware files are intended for supported ATmega32U4-based controllers unless otherwise noted.
+Firmware files are intended for the products and configurations described in each product folder.
 
-Unsupported microcontrollers or modified hardware are not officially supported.
+Unsupported microcontrollers, modified hardware, custom builds, and modified firmware are not officially supported.
